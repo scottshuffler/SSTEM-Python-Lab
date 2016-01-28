@@ -30,3 +30,10 @@ if __name__ == '__main__':
     hc.hello_world()
     hc.main()
 ```
+
+Modify the class above to create a calculator 
+ - Display a message before you ask for input, for example: Simple Calculator 1.0
+ - Prompt the user three times (first number, operator, and second number)
+ - Create four new functions (Multiply, divide, add, and subtract)
+ - Evaluate the operator and call the appropriate function using the two numbers as parameters, for example: multi(self, l_param, r_param)
+ - Display the result with the full equation, for example: 2 + 3 = 5
