@@ -4,7 +4,7 @@ You can do this on your local machine, student, or the Raspberry Pi.
 
 Be sure to be using Python3
 
-Here is the code we wrote during out meeting:
+Here is the code we wrote during our meeting:
 
 ``` python
 
